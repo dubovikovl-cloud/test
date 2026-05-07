@@ -40,7 +40,7 @@ git push
 6) README
 В `README.md` добавьте/замените строку:
 
- `STUDENT_TOKEN: TOKEN-<ваш_github_username>`
+ `STUDENT_TOKEN: TOKEN-dubovikovl-cloud`
 
 и закоммитьте:
 
